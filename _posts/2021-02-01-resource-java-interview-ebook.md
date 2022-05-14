@@ -14,7 +14,7 @@ tags: 资源 Java面试
 
 
 
-<img class="image image--xl" src="/screenshot.jpg"/>
+<img class="image image--xl" src="/assets/resource/java-interview/2021-02-01-resource-java-interview-ebook.png"/>
 
 
 
