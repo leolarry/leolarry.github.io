@@ -12,8 +12,6 @@ tags: 资源 Java面试
 
 ......
 
-<br/>
-
 ### 内容图片截图
 
 <img class="image image--xl" src="/assets/resource/java-interview/2021-02-01-resource-java-interview-ebook.png"/>
@@ -21,8 +19,6 @@ tags: 资源 Java面试
 
 
 需要自取，点击 [下载链接](https://pan.baidu.com/s/1oMqrkrvz1zivv_bFZAcneg?pwd=df6o) 获取。
-
-<br/>
 
 <br/>
 
