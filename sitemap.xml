@@ -1,35 +1,72 @@
----
-sitemap:
-    priority: 0.7
-    changefreq: monthly
-    lastmod: 2013-07-28T12:49:30-05:00
----
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-	xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" 
-	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-  {% for post in site.posts %}
-  <url>
-    <loc>{{ site.url }}{{ post.url }}</loc>
-    {% if post.lastmod == null %}
-    <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
-    {% else %}
-    <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
-    {% endif %}
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  {% endfor %}
-  {% for page in site.pages %}
-  {% if page.sitemap != null and page.sitemap != empty %}
-  <url>
-    <loc>{{ site.url }}{{ page.url }}</loc>
-    <lastmod>{{ page.sitemap.lastmod | date_to_xmlschema }}</lastmod>
-    <changefreq>{{ page.sitemap.changefreq }}</changefreq>
-    <priority>{{ page.sitemap.priority }}</priority>
-  </url>
-  {% endif %}
-  {% endfor %}
+
+<url>
+  <loc>https://leolarry.github.io/</loc>
+  <lastmod>2022-05-15T07:53:48+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://leolarry.github.io/archive.html</loc>
+  <lastmod>2022-05-15T07:53:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://leolarry.github.io/about.html</loc>
+  <lastmod>2022-05-15T07:53:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://leolarry.github.io/2021/02/01/res-java-interview-ebook.html</loc>
+  <lastmod>2022-05-15T07:53:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://leolarry.github.io/archive.html?tag=%E8%B5%84%E6%BA%90</loc>
+  <lastmod>2022-05-15T07:53:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://leolarry.github.io/archive.html?tag=Java%E9%9D%A2%E8%AF%95</loc>
+  <lastmod>2022-05-15T07:53:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://leolarry.github.io/2021/01/03/v-res-source-duubo.html</loc>
+  <lastmod>2022-05-15T07:53:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://leolarry.github.io/archive.html?tag=%E8%A7%86%E9%A2%91%E8%B5%84%E6%BA%90</loc>
+  <lastmod>2022-05-15T07:53:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://leolarry.github.io/archive.html?tag=%E6%BA%90%E7%A0%81</loc>
+  <lastmod>2022-05-15T07:53:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://leolarry.github.io/archive.html?tag=Dubbo</loc>
+  <lastmod>2022-05-15T07:53:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://leolarry.github.io/2018/07/01/welcome.html</loc>
+  <lastmod>2022-05-15T07:53:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://leolarry.github.io/archive.html?tag=TeXt</loc>
+  <lastmod>2022-05-15T07:53:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
 
 </urlset>
