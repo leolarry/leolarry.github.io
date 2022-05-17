@@ -17,7 +17,7 @@ tags: 资源 Java面试 专题
 
 ### 内容图片截图
 
-<img class="image image--xl" src="/assets/resource/java-interview/2021-01-15-res-java-interview-subject.png"/>
+<img class="image" src="/assets/resource/java-interview/2021-01-15-res-java-interview-subject.png"/>
 
 
 ### 下载链接
