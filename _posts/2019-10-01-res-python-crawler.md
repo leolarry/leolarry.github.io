@@ -1,6 +1,6 @@
 ---
-title: Python3网络爬虫开发实战（两个版本）
-tags: Python3 网络爬虫
+title: Python3网络爬虫开发实战（两个版本，高清文字版）
+tags: Python3 网络爬虫 高清文字版
 ---
 
 
