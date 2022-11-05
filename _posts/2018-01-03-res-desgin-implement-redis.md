@@ -1,5 +1,5 @@
 ---
-title: Redis设计与实现（高清文字PDF）
+title: Redis设计与实现（高清文字版PDF）
 tags: PDF Redis 设计与实现
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 算法（第4版）- Robert_Sedgewick & Kevin_Wayne（高清文字PDF）
+title: 算法（第4版）- Robert_Sedgewick & Kevin_Wayne（高清文字版PDF）
 tags: PDF MySQL 算法
 ---
 
