@@ -20,7 +20,7 @@ tags: PDF ddia
 
 ### 下载链接
 
-点击 [下载](http://www.tupianx.com/p.php?8tp=t1.24535a24b88.pg3) 链接获取。
+点击 [下载](http://www.tupianx.com/p.php?8tp=t4.24535a32b68.pg3) 链接获取。
 
 
 <br/>

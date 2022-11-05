@@ -23,7 +23,7 @@ tags: PDF 分布式事务 实战
 
 ### 下载链接
 
-点击 [下载](http://www.tupianx.com/p.php?8tp=t3.24535a22b111.pg3) 链接获取。
+点击 [下载](http://www.tupianx.com/p.php?8tp=t4.24535a30b110.pg3) 链接获取。
 
 
 <br/>
