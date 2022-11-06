@@ -24,7 +24,7 @@ tags: PDF 剑指Offer
 
 ### 下载链接
 
-点击 [下载](http://www.tupianx.com/p.php?8tp=t3.24535a33b88.pg3) 链接获取。
+点击 [下载](http://www.tupianx.com/p.php?8tp=t3.24535a33b88.pg3) 获取分享链接。
 
 
 <br/>

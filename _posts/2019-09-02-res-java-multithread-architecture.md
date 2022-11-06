@@ -23,7 +23,7 @@ tags: PDF Java 多线程 架构
 
 ### 下载链接
 
-点击 [下载](http://www.tupianx.com/p.php?8tp=t1.24535a37b100.pg3) 链接获取。
+点击 [下载](http://www.tupianx.com/p.php?8tp=t1.24535a37b100.pg3) 获取分享链接。
 
 
 <br/>

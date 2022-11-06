@@ -26,7 +26,7 @@ tags: PDF MySQL InnoDB
 
 ### 下载链接
 
-点击 [下载](http://www.tupianx.com/p.php?8tp=t4.24535a34b110.pg3) 链接获取。
+点击 [下载](http://www.tupianx.com/p.php?8tp=t4.24535a34b110.pg3) 获取分享链接。
 
 
 <br/>
